@@ -1,7 +1,7 @@
 #!/bin/bash
 
+# Read user input
 read -p "Enter date in YYYY-MM-DD format: " target_date
-# target_date="2025-03-01"
 
 current_date=$(date +"%Y-%m-%d")
 
