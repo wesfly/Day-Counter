@@ -9,4 +9,4 @@ cd Day-Counter
 bash days_until.sh
 ```
 
-Note that this script only works on **GNU/Linux**
+Note that this script will only work on **GNU/Linux**.
